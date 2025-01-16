@@ -1,0 +1,10 @@
+hparams:
+  dropout: 0.2
+  dropout_edge: 0.1
+  heads: 2
+  hidden_dim: 64
+  learning_rate: 0.0001
+  num_nodes: 750
+  p_sensor: null
+  use_residual: true
+  weight_decay: 1.0e-05

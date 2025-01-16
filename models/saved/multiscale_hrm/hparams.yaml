@@ -1,0 +1,16 @@
+hparams:
+  dropout: 0.28668510479525044
+  edge_dropout: 0.17080799753069711
+  hidden_dim_high: 32
+  hidden_dim_low: 128
+  hidden_dim_mid: 128
+  knn_high: 8
+  knn_mid: 10
+  learning_rate: 0.0005733348489188286
+  n_heads_high: 3
+  n_heads_low: 4
+  n_heads_mid: 1
+  seq_len: 10
+  voxel_size_high: 0.6
+  voxel_size_mid: 0.2
+  weight_decay: 1.3812648668111563e-06
