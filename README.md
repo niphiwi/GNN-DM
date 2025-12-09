@@ -17,5 +17,4 @@ If you find this code useful, please cite our paper:
   volume={25},
   number={22},
   pages={42171-42179},
-  keywords={Sensors;Sensor phenomena and characterization;Training;Layout;Gas detectors;Mathematical models;Data models;Automobiles;Training data;Synthetic data;Environmental monitoring;gas distribution mapping (GDM);graph neural networks (GNNs);sensor networks;transfer learning},
   doi={10.1109/JSEN.2025.3617158}}
