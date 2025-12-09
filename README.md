@@ -9,11 +9,13 @@ The synthetic gas distribution dataset is based on the dataset that was previous
 ## Citation
 If you find this code useful, please cite our paper:
 ```
-@inproceedings{winkler2024rabignn,
-  title={Radius-Based, Bi-Directional Graph Neural Networks for Gas Distribution Mapping (RABI-GNN)},
-  author={Winkler, Nicolas P and Neumann, Patrick P and Schaffernicht, Erik and Lilienthal, Achim J},
-  booktitle={2024 IEEE International Symposium on Olfaction and Electronic Nose (ISOEN)},
-  pages={1--3},
-  year={2024},
-  organization={IEEE}
-}
+@ARTICLE{11197193,
+  author={Winkler, Nicolas P. and Neumann, Patrick P. and Albizu, Natalia and Schaffernicht, Erik and Lilienthal, Achim J.},
+  journal={IEEE Sensors Journal}, 
+  title={GNN-DM: A Graph Neural Network Framework for Real-World Gas Distribution Mapping}, 
+  year={2025},
+  volume={25},
+  number={22},
+  pages={42171-42179},
+  keywords={Sensors;Sensor phenomena and characterization;Training;Layout;Gas detectors;Mathematical models;Data models;Automobiles;Training data;Synthetic data;Environmental monitoring;gas distribution mapping (GDM);graph neural networks (GNNs);sensor networks;transfer learning},
+  doi={10.1109/JSEN.2025.3617158}}
